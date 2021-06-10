@@ -9,13 +9,13 @@ Soleado;
 
 
 
-> Ultima hora en España: [Los YouTubers españoles alcanzan las cifras más altas de espectadores en Twitch en las últimas semanas](https://github.com/peki-network/noticias-espana/ultima-hora/ytbrs-esp-10-06-21.md)
+> Ultima hora en España: [Los YouTubers españoles alcanzan las cifras más altas de espectadores en Twitch en las últimas semanas](https://github.com/peki-network/noticias-espana/blob/main/ultima-hora/ytbrs-esp-10-06-21.md)
 
 ### Petted Kitten Network - Tu portal de noticias de libre acceso y edición
 
 ## Echale un ojo a...:
 
-- **[Los YouTubers españoles alcanzan las cifras más altas de espectadores en Twitch en las últimas semanas](https://github.com/peki-network/noticias-espana/ultima-hora/ytbrs-esp-10-06-21.md)**
+- **[Los YouTubers españoles alcanzan las cifras más altas de espectadores en Twitch en las últimas semanas](https://github.com/peki-network/noticias-espana/blob/main/ultima-hora/ytbrs-esp-10-06-21.md)**
 
 ## Acerca de como admitimos noticias y sus fuentes.
 
