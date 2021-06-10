@@ -1,5 +1,5 @@
-***[Volver al inicio](https://github.com/peki-network/home)***
-***[Volver a Noticias España](https://github.com/peki-network/noticias-espana)***
+***[Volver al inicio](https://github.com/peki-network/home/blob/main/README.md)*** |
+***[Volver a Noticias España](https://github.com/peki-network/noticias-espana/blob/main/README.md)***
 
 > El tiempo en Madrid: 33°C;
 Precipitaciones: 0%;
@@ -40,5 +40,5 @@ Y si bien no nos quedamos satisfechos con los Streamers de la Semana agarrate po
 
 Si quieres participar haznoslo saber en las [issues](https://github.com/peki-network/noticias-espana/issues) de este artículo. Más información allí explicada. Buenas noches y que descansen.
 
-***[Volver a Noticias España](https://github.com/peki-network/noticias-espana)***
-***[Volver al inicio](https://github.com/peki-network/home)***
+***[Volver a Noticias España](https://github.com/peki-network/noticias-espana/blob/main/README.md)*** | 
+***[Volver al inicio](https://github.com/peki-network/home/blob/main/README.md)***
