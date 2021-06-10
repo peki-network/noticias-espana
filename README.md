@@ -1,4 +1,4 @@
-***[Volver](https://github.com/peki-network/home)***
+***[Volver](https://github.com/peki-network/home/blob/main/README.md)***
 
 > El tiempo en Madrid: 33°C;
 Precipitaciones: 0%;
@@ -21,4 +21,4 @@ Soleado;
 
 Para acceder a dicha función hay que **llegar a la versión 0.0.0.1.0** como mínimo
 
-***[Volver](https://github.com/peki-network/home)***
+***[Volver](https://github.com/peki-network/home/blob/main/README.md)***
