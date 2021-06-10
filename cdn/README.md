@@ -1,0 +1,1 @@
+### Almacenamiento de imágenes.
